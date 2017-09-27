@@ -12,7 +12,7 @@
 		.tg .tg-4eph{background-color:#f9f9f9}
 	</style>
 </head>
-<body>
+<body style="background-color:orange;">
 <h1>
 	Add a Person
 </h1>
